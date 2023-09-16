@@ -1,0 +1,5 @@
+[user]
+	name = aledaetz
+	email = alenkadaetz@gmail.com
+[user "name"]
+	email = alenkadaetz@gmail.com
